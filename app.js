@@ -9,3 +9,5 @@ function getSum(num1, num2) {
 }
 
 getSum(8, 2);
+
+console.log(1);
